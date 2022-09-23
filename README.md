@@ -2,5 +2,5 @@
 ##
 ## DEMO ẢNH </br>
 
- <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
+ <img src="https://i.imgur.com/ZolEUsi.png"/></br>
 </div> 
